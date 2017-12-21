@@ -1,6 +1,6 @@
 # css-bgImgAutoFit
 
-* {
+         * {
                 margin: 0;
                 padding: 0;
             }
